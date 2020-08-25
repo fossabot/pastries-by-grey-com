@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c6962912-e6dc-4ea5-ad4f-291abf0c03ca/deploy-status)](https://app.netlify.com/sites/pastries-by-grey-com/deploys)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjasikpark%2Fpastries-by-grey-com.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjasikpark%2Fpastries-by-grey-com?ref=badge_shield)
 
 # Pastries By Grey
 
@@ -50,3 +51,7 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjasikpark%2Fpastries-by-grey-com.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjasikpark%2Fpastries-by-grey-com?ref=badge_large)
